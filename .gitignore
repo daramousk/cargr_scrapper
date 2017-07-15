@@ -1,2 +1,5 @@
 *pyc
 cars.json
+.project
+.pydevproject
+.settings/
